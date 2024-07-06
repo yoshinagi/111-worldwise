@@ -10,7 +10,7 @@
         "lat": 38.727881642324164,
         "lng": -9.140900099907554
       },
-      "id": 73930385
+      "id": "73930385"
     },
     {
       "cityName": "Madrid",
@@ -22,7 +22,7 @@
         "lat": 40.46635901755316,
         "lng": -3.7133789062500004
       },
-      "id": 17806751
+      "id": "17806751"
     },
     {
       "cityName": "Berlin",
@@ -34,7 +34,79 @@
         "lat": 52.53586782505711,
         "lng": 13.376933665713324
       },
-      "id": 98443197
+      "id": "98443197"
+    },
+    {
+      "id": "58f3",
+      "cityName": "Granyanella",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2024-07-06T13:06:01.856Z",
+      "notes": "",
+      "position": {
+        "lat": "41.672911819602085",
+        "lng": "1.2304687500000002"
+      }
+    },
+    {
+      "id": "596c",
+      "cityName": "Algaida",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2024-07-06T13:08:20.943Z",
+      "notes": "",
+      "position": {
+        "lat": "39.57182223734374",
+        "lng": "2.9443359375"
+      }
+    },
+    {
+      "id": "d6c7",
+      "cityName": "Sour El Aaz",
+      "country": "Morocco",
+      "emoji": "🇲🇦",
+      "date": "2024-07-06T13:11:32.311Z",
+      "notes": "",
+      "position": {
+        "lat": "31.838774354433905",
+        "lng": "-7.054939270019532"
+      }
+    },
+    {
+      "id": "ce8a",
+      "cityName": "Mamoiada",
+      "country": "Italy",
+      "emoji": "🇮🇹",
+      "date": "2024-07-06T13:18:06.503Z",
+      "notes": "",
+      "position": {
+        "lat": "40.23197034570102",
+        "lng": "9.289541244506838"
+      }
+    },
+    {
+      "id": "7b8f",
+      "cityName": "Mamoiada",
+      "country": "Italy",
+      "emoji": "🇮🇹",
+      "date": "2024-07-06T13:18:06.503Z",
+      "notes": "",
+      "position": {
+        "lat": "40.23197034570102",
+        "lng": "9.289541244506838"
+      }
+    },
+    {
+      "id": "542e",
+      "cityName": "Gemeente Noordoostpolder",
+      "country": "Netherlands (Kingdom of the)",
+      "emoji": "🇳🇱",
+      "date": "2024-07-06T13:22:26.021Z",
+      "notes": "test",
+      "position": {
+        "lat": "52.609927870746716",
+        "lng": "5.725078582763673"
+      }
     }
   ]
 }
